@@ -1,0 +1,5 @@
+[-] -> Setup Project
+[-] -> Add Authentication Features
+[-] -> Add Products routes
+[-] -> Add Cart Features
+[-] -> Add Checkout using Stripe
